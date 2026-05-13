@@ -50,6 +50,8 @@ Three months in = you're 10× sharper than your first-day self.
 
 ## 🌀 Origin
 
+> 当前仓库灵感来源于 [XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)。
+
 This is the sibling repo of [cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) (video version). Same methodology — score → blind predict → retro → evolve rubric — ported to WeChat long-form essays.
 
 But **the rubric had to be rewritten**: videos hinge on completion rate and emotional resonance (ER/HP/QL/NA/AB/SR/SAT 7 dims), essays hinge on title hooks and issue edge. This version reimagines the 7 dims:
@@ -195,10 +197,14 @@ Future v0.2 candidates: integrate with NewRank / 西瓜助手 etc. paid third-pa
 
 ---
 
-## 📈 Star History
+## Star History
 
-<a href="https://star-history.com/#<your-org>/cheat-on-essay&Date">
-  <img src="https://api.star-history.com/svg?repos=<your-org>/cheat-on-essay&type=Date" alt="Star History Chart" width="720">
+<a href="https://www.star-history.com/?repos=CodeGetters%2Fcheat-on-essay&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=CodeGetters/cheat-on-essay&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=CodeGetters/cheat-on-essay&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=CodeGetters/cheat-on-essay&type=date&legend=top-left" />
+ </picture>
 </a>
 
 ---
