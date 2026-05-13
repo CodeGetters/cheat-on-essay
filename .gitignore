@@ -1,0 +1,50 @@
+# macOS / iCloud
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Claude Code per-user config (含本地路径 / 个人 permission grants)
+.claude/settings.local.json
+
+# Python（如未来加 adapter / 数据脚本）
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.python-version
+
+# 用户项目数据（防止开发者在 cheat-on-essay 源码目录里跑了 cheat-essay-init）
+# 这些文件应在用户自己的 essay project 里，不应污染源码 repo
+.cheat-state.json
+.cheat-cache/
+.cheat-hooks/
+.cheat-secrets.json
+predictions/
+articles/
+drafts/
+samples/
+candidates.md
+rubric_notes.md
+script_patterns.md
+benchmark.md
+STATUS.md
+WORKFLOW.md
+content.db
+
+# adapter 跑过留下的
+.auth/
+.debug/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.log
